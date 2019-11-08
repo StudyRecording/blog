@@ -10,6 +10,9 @@ body {
 .m-padded-tiny {
     padding: 0.3em !important;
 }
+.m-padded {
+    padding: 1em !important;
+}
 .m-padded-tb-mini {
     padding-top: 0.3em !important;
     padding-bottom: 0.3em !important;
@@ -138,4 +141,20 @@ body {
     .m-mobile-wide {
         width: 100% !important;
     }
+}
+
+/*--------animate-------------------*/
+.zoomIn {
+    animation-duration: 3s;
+}
+
+/*------------position---------------*/
+.m-fixed {
+    position: fixed !important;
+    z-index: 10 !important;
+}
+
+.m-right-bottom {
+    bottom: 0 !important;
+    right: 0 !important;
 }
