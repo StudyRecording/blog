@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81985cb3-59ed-4249-82ee-ac1be455e3c8" name="Default Changelist" comment="博客页面相关信息的完善">
+    <list default="true" id="81985cb3-59ed-4249-82ee-ac1be455e3c8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -65,9 +64,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="90" />
-    <option name="y" value="85" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="187" />
+    <option name="y" value="57" />
     <option name="width" value="1614" />
     <option name="height" value="975" />
   </component>
@@ -154,7 +153,7 @@
       <updated>1573039289090</updated>
       <workItem from="1573039292767" duration="5736000" />
       <workItem from="1573085572900" duration="30310000" />
-      <workItem from="1573173775433" duration="12959000" />
+      <workItem from="1573173775433" duration="12996000" />
     </task>
     <task id="LOCAL-00001" summary="创建blog项目前端">
       <created>1573039486986</created>
@@ -191,15 +190,21 @@
       <option name="project" value="LOCAL" />
       <updated>1573129609378</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="readme文件完善">
+      <created>1573194973842</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1573194973842</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49005000" />
+    <option name="totallyTimeSpent" value="49042000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49825174" visible="true" weight="0.19301033" />
       <window_info id="Structure" order="1" sideWeight="0.50174826" side_tool="true" weight="0.24861" />
@@ -231,7 +236,8 @@
     <MESSAGE value="添加标签页，归档页，关于我页面，并完善" />
     <MESSAGE value="博客管理和发布页面" />
     <MESSAGE value="博客页面相关信息的完善" />
-    <option name="LAST_COMMIT_MESSAGE" value="博客页面相关信息的完善" />
+    <MESSAGE value="readme文件完善" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme文件完善" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/static/js/semantic.css" />
